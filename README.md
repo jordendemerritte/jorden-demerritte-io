@@ -1,6 +1,7 @@
 # Jorden Demerrite
 
 # Lesson 9
+- https://github.com/jordendemerritte/jorden-demerritte-io/pull/2
 - A11y checklist
 
  1. **When you've had limited or no access to something, what did you do?  Were you ultimately able to get what you needed?  If not, how did your lack of access impact your life?** I worked around it, when I think of a professor whose learning style does not match with my own–I found my way around it through by looking up videos, tutorials, asking classmates, and getting personalized tutoring.

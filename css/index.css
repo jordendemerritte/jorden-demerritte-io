@@ -1,0 +1,53 @@
+.gowun-batang-regular {
+    font-family: "Gowun Batang", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+body {
+    background-color: #071234e3;
+    font-family: Gowun Batang, serif;
+    color: #d7def8d5;
+}
+
+nav {
+    background-color: #010511e3;
+    color: #d7def8d5;
+    padding: 10px;
+    display: flex;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 40px;
+    font-size: 2.5rem;
+    font-weight: 800;
+}
+
+h2 {
+    font-weight: 800;
+    text-align: center;
+}
+
+a:link {
+    color:#d7def8d5;
+}
+
+a:visited {
+    color: #010511e3;
+}
+
+a:active {
+    color:#d7def8d5;
+}
+
+footer {
+    padding-top: 80px;
+    text-align: center;
+}
+
+.section {
+    padding-top: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
