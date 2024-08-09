@@ -18,16 +18,14 @@ body {
 }
 
 nav {
-    background-color: #010511e3;
-    color: #d7def8d5;
-    padding: 10px;
+    background-color: #d7def8d5;
+    padding: 0.2rem;
     display: flex;
 }
 
 h1 {
     text-align: center;
     font-family: "Jacquarda Bastarda 9 Charted", serif;
-    padding-top: 0.5px;
     font-size: 4.5rem;
     font-weight: 800;
 }
@@ -41,22 +39,28 @@ a:link {
     color:#d7def8d5;
 }
 
-a:visited {
-    color: #010511e3;
-}
-
 a:active {
-    color:#d7def8d5;
+    color:#010511e3;;
+    
 }
 
 footer {
-    padding-top: 80px;
+    padding-top: 3rem;
     text-align: center;
     font-family: "Jacquarda Bastarda 9", serif;
 }
 
 .section {
-    padding-top: 20px;
+    padding-bottom: 1rem;
     margin-left: 20%;
     margin-right: 20%;
+}
+
+.columns {
+    display: flex;
+    justify-content: space-between;
+}
+
+.column {
+    margin: 5px;    
 }
