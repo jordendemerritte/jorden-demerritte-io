@@ -51,12 +51,6 @@ footer {
     font-family: "Jacquarda Bastarda 9", serif;
 }
 
-.section {
-    padding-bottom: 1rem;
-    margin-left: 20%;
-    margin-right: 20%;
-}
-
 .columns {
     display: flex;
     justify-content: space-between;
@@ -64,10 +58,4 @@ footer {
 
 .column {
     margin: 1rem;    
-}
-
-#navigation {
-    display: flex;
-    justify-content: space-between;
-    padding-left: 0.2rem;
 }
