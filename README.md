@@ -1,7 +1,14 @@
 # Jorden Demerrite
 
-# Lesson 9
+# Lesson 10
 - https://github.com/jordendemerritte/jorden-demerritte-io/pull/2
+
+1. **Think of an example of something you have done in your life that you failed at multiple times before you got it—doesn't have to be coding-related, maybe a sports play, a piece on a musical instrument, or a video game level. How did you keep yourself motivated to keep trying?** Getting straight a's in my class took reading cal newport's book to realize and uncover the system behind good grades. Though I managed to pass with final grades of A's and B's in high school, I noticed that my perfomace did not keep up with increasing difficulty in curriculm. Reading this book gave me clear insight on how to improve.
+2. **Have you witnessed others learn from failures and then succeed? What strategies have they used?** Yes, my own failures have made me reflect, review, strategize, overcome, and succeed.
+
+
+# Lesson 9
+- Pull request https://github.com/jordendemerritte/jorden-demerritte-io/pull/2
 - A11y checklist
 
  1. **When you've had limited or no access to something, what did you do?  Were you ultimately able to get what you needed?  If not, how did your lack of access impact your life?** I worked around it, when I think of a professor whose learning style does not match with my own–I found my way around it through by looking up videos, tutorials, asking classmates, and getting personalized tutoring.
