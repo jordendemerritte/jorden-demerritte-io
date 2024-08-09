@@ -1,5 +1,12 @@
 # Jorden Demerrite
 
+# Lesson 13
+- Pull request https://github.com/jordendemerritte/jorden-demerritte-io/pull/6
+
+1. **When was a time you got misinformation or bad advice? What happened? Also consider any time an artificial intelligence tool has given you bad/weird answers. Share about that experience here.** Well I can't recall anything at the moment–generally I don't trust the internet and largely take it with a grain of salt. There used to be this show on the History Channel about Aliens and Ghost Hunters that spewed misrepresentations of reality, which I can point as as misinformation
+2. **What are some ‘clues’ that you use to help you assess whether a resource is applicable/trustworthy or not? What are some ways you can verify the information you got from AI was accurate/current?** Generally government websites. Large spans of references. Author has a higher degree within the subject or field.
+3. **What are some ways you’ll build on your information literacy either in your personal life or as a developer?** Being congizant that there is no truth on the internet, as it can be quickly fabricated or portrayed falsely based on lack of holistic research. This can be akin to history books portraying Columbus as the first to discover the Americas when this is wholly false.
+
 # Lesson 12
 - Pull request https://github.com/jordendemerritte/jorden-demerritte-io/pull/5
 
