@@ -10,3 +10,5 @@ for (var i = 0; i < skills.length; i++) {
   skill.textContent = skills[i];
   skillsList.appendChild(skill);
 };
+
+const = messaageForm = document.getElementById("message-form");
