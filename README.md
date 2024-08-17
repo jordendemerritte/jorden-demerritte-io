@@ -1,5 +1,29 @@
 # Jorden Demerrite
 
+# Lesson 14
+- 
+
+# Lesson 13
+- Pull request https://github.com/jordendemerritte/jorden-demerritte-io/pull/6
+
+1. **When was a time you got misinformation or bad advice? What happened? Also consider any time an artificial intelligence tool has given you bad/weird answers. Share about that experience here.** Well I can't recall anything at the moment–generally I don't trust the internet and largely take it with a grain of salt. There used to be this show on the History Channel about Aliens and Ghost Hunters that spewed misrepresentations of reality, which I can point as as misinformation
+2. **What are some ‘clues’ that you use to help you assess whether a resource is applicable/trustworthy or not? What are some ways you can verify the information you got from AI was accurate/current?** Generally government websites. Large spans of references. Author has a higher degree within the subject or field.
+3. **What are some ways you’ll build on your information literacy either in your personal life or as a developer?** Being congizant that there is no truth on the internet, as it can be quickly fabricated or portrayed falsely based on lack of holistic research. This can be akin to history books portraying Columbus as the first to discover the Americas when this is wholly false.
+
+# Lesson 12
+- Pull request https://github.com/jordendemerritte/jorden-demerritte-io/pull/5
+
+1. **What was something new you learned about colors/color theory and how do you think that knowledge will effect your design choices?** Tailwind CSS is particularly good at managing colors–colors pull certain emotions from people. I know for me, whose favorite colors are blue and green, they bring me peace and remind me of the Miami landscape. Additionally, colors can reinforce certin attitudes towards a brand. For example orange gives off an active energy, hence its effectiveness in OrangeTheory and blue gives off approachable/professional vibes hence its effectiveness across workforce webpages.
+2. **Try out some different background/foreground color combinations using this tool from A11y. Are there any combinations that surprise you in terms of not meeting accessibility guidelines?** Not necessarily. I'm aware that certain fonts and colors do not allow for a wide audience to read properly. Especially since I am an architecture major, I understand that when building you keep in mind that the audience comes from a wide set of backgrounds and capabilities.
+
+# Lesson 11
+- Pull request https://github.com/jordendemerritte/jorden-demerritte-io/pull/4
+
+1. **Think about a time when a layout personally impacted your experience (like the examples in the first paragraph) and describe the scene for us. Also share how you felt when you could/couldn't find what you were looking for.** Greta Thunberg's webpage is amazing and I loved seing how it was organized and the three-dimensional component.
+2. **In the visual hierarchy article, were there topics that surprised you? If so, which one(s) and why?** Yes, I was surprised by the implications of visual hierarchy in website design and user research. I will ensure to refer back to this video when developing web applications and products.
+3. **What are some of your most favorite and least favorite design features as a user?** Favorite: typography (this makes a large difference in the character of websites and portraying emotions) Least favorite: hero images (most often these seem tacky and out-dated)
+
+
 # Lesson 10
 - Pull request https://github.com/jordendemerritte/jorden-demerritte-io/pull/3
 
